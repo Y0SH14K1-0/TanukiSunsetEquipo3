@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: da839aef157d9434c9989ebc33bf7776
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CG
+    100002: CheekL
+    100004: CheekR
+    100006: Ear
+    100008: Ear1
+    100010: EyeL
+    100012: EyeR
+    100014: Head
+    100016: Jaw
+    100018: LCalf
+    100020: LClavicle
+    100022: LFinger0
+    100024: LFinger01
+    100026: LFinger1
+    100028: LFinger11
+    100030: LFinger2
+    100032: LFinger21
+    100034: LFinger3
+    100036: LFinger31
+    100038: LFinger4
+    100040: LFinger41
+    100042: LFoot
+    100044: LForearm
+    100046: LHand
+    100048: LHorseLink
+    100050: LThigh
+    100052: LToe0
+    100054: LUpperArm
+    100056: Neck
+    100058: Pelvis
+    100060: RCalf
+    100062: RClavicle
+    100064: RFinger0
+    100066: RFinger01
+    100068: RFinger1
+    100070: RFinger11
+    100072: RFinger2
+    100074: RFinger21
+    100076: RFinger3
+    100078: RFinger31
+    100080: RFinger4
+    100082: RFinger41
+    100084: RFoot
+    100086: RForearm
+    100088: RHand
+    100090: RHorseLink
+    100092: RThigh
+    100094: RToe0
+    100096: RUpperArm
+    100098: Spine
+    100100: Spine1
+    100102: Spine2
+    100104: Tail01
+    100106: Tail02
+    100108: Tail03
+    100110: Tail04
+    100112: Tail05
+    100114: //RootNode
+    100116: Tanuki_geo
+    400000: CG
+    400002: CheekL
+    400004: CheekR
+    400006: Ear
+    400008: Ear1
+    400010: EyeL
+    400012: EyeR
+    400014: Head
+    400016: Jaw
+    400018: LCalf
+    400020: LClavicle
+    400022: LFinger0
+    400024: LFinger01
+    400026: LFinger1
+    400028: LFinger11
+    400030: LFinger2
+    400032: LFinger21
+    400034: LFinger3
+    400036: LFinger31
+    400038: LFinger4
+    400040: LFinger41
+    400042: LFoot
+    400044: LForearm
+    400046: LHand
+    400048: LHorseLink
+    400050: LThigh
+    400052: LToe0
+    400054: LUpperArm
+    400056: Neck
+    400058: Pelvis
+    400060: RCalf
+    400062: RClavicle
+    400064: RFinger0
+    400066: RFinger01
+    400068: RFinger1
+    400070: RFinger11
+    400072: RFinger2
+    400074: RFinger21
+    400076: RFinger3
+    400078: RFinger31
+    400080: RFinger4
+    400082: RFinger41
+    400084: RFoot
+    400086: RForearm
+    400088: RHand
+    400090: RHorseLink
+    400092: RThigh
+    400094: RToe0
+    400096: RUpperArm
+    400098: Spine
+    400100: Spine1
+    400102: Spine2
+    400104: Tail01
+    400106: Tail02
+    400108: Tail03
+    400110: Tail04
+    400112: Tail05
+    400114: //RootNode
+    400116: Tanuki_geo
+    2100000: phong1SG1
+    2100002: lambert2SG2
+    4300000: Tanuki_geo
+    7400000: Tanuki_air_flailing
+    9500000: //RootNode
+    13700000: Tanuki_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Tanuki_air_flailing
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

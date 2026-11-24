@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 991461f5557c7524cbefbab5e5c8dc35
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: axle1_pCylinder3
+    100002: bAxis
+    100004: //RootNode
+    100006: bTruck
+    100008: fAxis
+    100010: fTruck
+    100012: pCylinder1
+    100014: pCylinder1 1
+    100016: pCylinder11
+    100018: pCylinder11 1
+    100020: pCylinder11 2
+    100022: pCylinder11 3
+    100024: pCylinder12
+    100026: pCylinder12 1
+    100028: pCylinder12 2
+    100030: pCylinder12 3
+    100032: pCylinder2
+    100034: pCylinder5
+    100036: pCylinder5 1
+    100038: pCylinder6
+    100040: pCylinder6 1
+    100042: pCylinder7
+    100044: pCylinder7 1
+    100046: pCylinder7 2
+    100048: pCylinder7 3
+    100050: screws
+    100052: screws 1
+    100054: wheel
+    100056: wheel 1
+    100058: wheel1
+    100060: wheel1 1
+    400000: axle1_pCylinder3
+    400002: bAxis
+    400004: //RootNode
+    400006: bTruck
+    400008: fAxis
+    400010: fTruck
+    400012: pCylinder1
+    400014: pCylinder1 1
+    400016: pCylinder11
+    400018: pCylinder11 1
+    400020: pCylinder11 2
+    400022: pCylinder11 3
+    400024: pCylinder12
+    400026: pCylinder12 1
+    400028: pCylinder12 2
+    400030: pCylinder12 3
+    400032: pCylinder2
+    400034: pCylinder5
+    400036: pCylinder5 1
+    400038: pCylinder6
+    400040: pCylinder6 1
+    400042: pCylinder7
+    400044: pCylinder7 1
+    400046: pCylinder7 2
+    400048: pCylinder7 3
+    400050: screws
+    400052: screws 1
+    400054: wheel
+    400056: wheel 1
+    400058: wheel1
+    400060: wheel1 1
+    2300000: axle1_pCylinder3
+    2300002: bAxis
+    2300004: //RootNode
+    2300006: bTruck
+    2300008: fAxis
+    2300010: fTruck
+    2300012: pCylinder1
+    2300014: pCylinder1 1
+    2300016: pCylinder11
+    2300018: pCylinder11 1
+    2300020: pCylinder11 2
+    2300022: pCylinder11 3
+    2300024: pCylinder12
+    2300026: pCylinder12 1
+    2300028: pCylinder12 2
+    2300030: pCylinder12 3
+    2300032: pCylinder2
+    2300034: pCylinder5
+    2300036: pCylinder5 1
+    2300038: pCylinder6
+    2300040: pCylinder6 1
+    2300042: pCylinder7
+    2300044: pCylinder7 1
+    2300046: pCylinder7 2
+    2300048: pCylinder7 3
+    2300050: screws
+    2300052: screws 1
+    3300000: axle1_pCylinder3
+    3300002: bAxis
+    3300004: //RootNode
+    3300006: bTruck
+    3300008: fAxis
+    3300010: fTruck
+    3300012: pCylinder1
+    3300014: pCylinder1 1
+    3300016: pCylinder11
+    3300018: pCylinder11 1
+    3300020: pCylinder11 2
+    3300022: pCylinder11 3
+    3300024: pCylinder12
+    3300026: pCylinder12 1
+    3300028: pCylinder12 2
+    3300030: pCylinder12 3
+    3300032: pCylinder2
+    3300034: pCylinder5
+    3300036: pCylinder5 1
+    3300038: pCylinder6
+    3300040: pCylinder6 1
+    3300042: pCylinder7
+    3300044: pCylinder7 1
+    3300046: pCylinder7 2
+    3300048: pCylinder7 3
+    3300050: screws
+    3300052: screws 1
+    4300000: board
+    4300002: bTruck
+    4300004: screws
+    4300006: bAxis
+    4300008: pCylinder1
+    4300010: pCylinder5
+    4300012: pCylinder6
+    4300014: pCylinder12
+    4300016: pCylinder11
+    4300018: pCylinder7
+    4300020: pCylinder12
+    4300022: pCylinder11
+    4300024: pCylinder7
+    4300026: axle1_pCylinder3
+    4300028: fTruck
+    4300030: screws
+    4300032: fAxis
+    4300034: pCylinder1
+    4300036: pCylinder2
+    4300038: pCylinder12
+    4300040: pCylinder11
+    4300042: pCylinder7
+    4300044: pCylinder12
+    4300046: pCylinder11
+    4300048: pCylinder7
+    4300050: pCylinder6
+    4300052: pCylinder5
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 6e05ca7710f9e824398b33fbc9f16f99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: 4d1853f55d59d514b8326d74fd2c8f7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: 62314f0df344c684e99cdaa69911f5f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: a93d0f7c2312f1847b7cece488a5bde7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong4
+    second: {fileID: 2100000, guid: 790839ade28f40e49ae1e6cc21224a22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong5
+    second: {fileID: 2100000, guid: 9fea300f543c03348ba8f1fb0795827f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.19999999
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

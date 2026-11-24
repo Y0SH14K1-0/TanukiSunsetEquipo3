@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 536e64d9746c27a4c97eabc161046b8f, type: 3}
+  m_Name: RoadLibrary_TestTrail
+  m_EditorClassIdentifier: 
+  normalRoads:
+    easy:
+      roadDifficulty: 0
+      enabled: 0
+      roads: []
+    medium:
+      roadDifficulty: 0
+      enabled: 0
+      roads: []
+    hard:
+      roadDifficulty: 0
+      enabled: 0
+      roads: []
+  driftRoads:
+    left:
+      easy:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+      medium:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+      hard:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+    right:
+      easy:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+      medium:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+      hard:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+  mechanics:
+    jumps:
+      easy:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+      medium:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+      hard:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+    narrow:
+      easy:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+      medium:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+      hard:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+    gates:
+      easy:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+      medium:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+      hard:
+        roadDifficulty: 0
+        enabled: 0
+        roads: []
+  kit:
+    pickups:
+      roadDifficulty: 0
+      enabled: 0
+      roads: []
+    dropoffs:
+      roadDifficulty: 0
+      enabled: 0
+      roads: []
+  items:
+    tape:
+      roadDifficulty: 0
+      enabled: 0
+      roads: []
+    objective:
+      roadDifficulty: 0
+      enabled: 0
+      roads: []
+    bitbonus:
+      roadDifficulty: 0
+      enabled: 0
+      roads: []
+  checkpoints:
+    roadDifficulty: 0
+    enabled: 0
+    roads:
+    - {fileID: 6062980614947294003, guid: 14c5d68fb2f4d894d9137ab6292b8448, type: 3}
+  curvinessCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  difficultyCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  roadSegmentEvents:
+  - spawnPieceNumber: 0
+    roadPrefab:
+    - {fileID: 4291367783183475375, guid: ae83ee053aa15194681c90f185244b91, type: 3}
+    - {fileID: 4964151628222755385, guid: e00fb1090f15bf4499abd8ef6b1d51c9, type: 3}
+    - {fileID: 1966973039449936984, guid: bcb062c9711d37442b6b29acae8c8c07, type: 3}
+    - {fileID: 5789820273551169795, guid: c59bc7ec07d6d5d4c8971493d8d25884, type: 3}
+    - {fileID: 1966973039449936984, guid: bcb062c9711d37442b6b29acae8c8c07, type: 3}
+    - {fileID: 4964151628222755385, guid: e00fb1090f15bf4499abd8ef6b1d51c9, type: 3}
+    - {fileID: 94264056276524576, guid: ae1c97aa6b2ee914890e598acd07d86f, type: 3}
+    - {fileID: 4392625195296303902, guid: dbcd2c86c9128b84184cdc7a27f92b15, type: 3}
+    - {fileID: 4472337302708471308, guid: a603a9da6f99d6a458a04a55e6cc1f0f, type: 3}
+    - {fileID: 2265555058733752966, guid: 0d6b4b609db108546983583a1fadde37, type: 3}
+    - {fileID: 226659016388653537, guid: 49121b020c785ec4abcf82cf8bb786ba, type: 3}
+    - {fileID: 6262906976995694877, guid: 8efc74bd2bc27204c9b0b0ceaa51e789, type: 3}
+    eventType: 1
+  piecesPerLevel: 0
+  roadLibraryClearId: 
